@@ -9,7 +9,6 @@ def get_requirements()->List[str]:
 
 
 
-
 setup (
 
     name = "Sensor",
@@ -21,3 +20,5 @@ setup (
 )
 
 
+
+raw.gitgubusercontent.com/

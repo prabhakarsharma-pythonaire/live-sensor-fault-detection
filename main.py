@@ -19,3 +19,6 @@ if __name__ == "__main__":
         test_exception()
     except Exception as e:
         print(e)
+
+
+https://github.com/avnyadav/sensor-fault-detection/blob/main/aps_failure_training_set1.csv
